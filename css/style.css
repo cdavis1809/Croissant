@@ -1,10 +1,11 @@
 body {
-  background: #ed8b13;
+  background-color: #f3b05e;
 }
 img {
   width: 60%;
   display: block;
   margin: 0 auto;
+  border-radius: 8px;
 }
 h1 {
   text-align: center;
@@ -18,4 +19,7 @@ p {
 
 a {
   margin: 15px;
+}
+.nav-link {
+  color: #a05a04;
 }
