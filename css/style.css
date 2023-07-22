@@ -1,0 +1,21 @@
+body {
+  background: #ed8b13;
+}
+img {
+  width: 60%;
+  display: block;
+  margin: 0 auto;
+}
+h1 {
+  text-align: center;
+}
+p {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+  max-width: 900px;
+}
+
+a {
+  margin: 15px;
+}
